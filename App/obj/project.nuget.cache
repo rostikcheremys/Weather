@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "elikACdZLX/6usTTIDRaiy3CyP60pKwjMlEZFh2bqajijt0nPX/Z3cI3TvYYZkgfcsgbYr3SKBoh70H7ErpF1Q==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\ЧНУ\\C#\\BonusTask\\App\\App\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rostik\\.nuget\\packages\\mgmweatherforecast\\1.0.2\\mgmweatherforecast.1.0.2.nupkg.sha512",
+    "C:\\Users\\Rostik\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.0-preview.4.23259.3\\microsoft.data.sqlite.core.8.0.0-preview.4.23259.3.nupkg.sha512",
+    "C:\\Users\\Rostik\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.5\\sqlitepclraw.bundle_e_sqlite3.2.1.5.nupkg.sha512",
+    "C:\\Users\\Rostik\\.nuget\\packages\\sqlitepclraw.core\\2.1.5\\sqlitepclraw.core.2.1.5.nupkg.sha512",
+    "C:\\Users\\Rostik\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.5\\sqlitepclraw.lib.e_sqlite3.2.1.5.nupkg.sha512",
+    "C:\\Users\\Rostik\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.5\\sqlitepclraw.provider.e_sqlite3.2.1.5.nupkg.sha512",
+    "C:\\Users\\Rostik\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Rostik\\.nuget\\packages\\vxp.bifrost.weatherforecast\\2023.5.1.1\\vxp.bifrost.weatherforecast.2023.5.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

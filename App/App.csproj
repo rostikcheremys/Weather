@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="MgmWeatherForecast" Version="1.0.2" />
+      <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="8.0.0-preview.4.23259.3" />
+      <PackageReference Include="SQLitePCLRaw.bundle_e_sqlite3" Version="2.1.5" />
+      <PackageReference Include="SQLitePCLRaw.core" Version="2.1.5" />
+      <PackageReference Include="SQLitePCLRaw.lib.e_sqlite3" Version="2.1.5" />
+      <PackageReference Include="Vxp.BiFrost.WeatherForecast" Version="2023.5.1.1" />
+    </ItemGroup>
+
+</Project>

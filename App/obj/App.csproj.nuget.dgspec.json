@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documents\\ЧНУ\\C#\\BonusTask\\App\\App\\App.csproj": {}
+  },
+  "projects": {
+    "D:\\Documents\\ЧНУ\\C#\\BonusTask\\App\\App\\App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\ЧНУ\\C#\\BonusTask\\App\\App\\App.csproj",
+        "projectName": "App",
+        "projectPath": "D:\\Documents\\ЧНУ\\C#\\BonusTask\\App\\App\\App.csproj",
+        "packagesPath": "C:\\Users\\Rostik\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\ЧНУ\\C#\\BonusTask\\App\\App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rostik\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MgmWeatherForecast": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[8.0.0-preview.4.23259.3, )"
+            },
+            "SQLitePCLRaw.bundle_e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "SQLitePCLRaw.core": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "SQLitePCLRaw.lib.e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.5, )"
+            },
+            "Vxp.BiFrost.WeatherForecast": {
+              "target": "Package",
+              "version": "[2023.5.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
